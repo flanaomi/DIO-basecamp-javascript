@@ -13,8 +13,6 @@ myVar = myVar .split(" ") .join("");
 // }
 
 
-
-
 // console.log (verificarPalindromo (myVar))
 
 
